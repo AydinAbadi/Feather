@@ -14,7 +14,7 @@ Feather: Lightweight Multi-party Updatable Delegated Private Set Intersection
 * Second, install the libraries and unzip the Feather file. 
 * Third, run the following command lines in order:
 
-      cd Feather-master
+      cd Feather-implementation-master
     
       g++ -c Rand.cpp -c Hashtable.cpp -c Polynomial.cpp -c Server.cpp -c Client.cpp
     
