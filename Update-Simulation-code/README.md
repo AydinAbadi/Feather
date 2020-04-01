@@ -12,7 +12,7 @@ Update Simulation for the protocol proposed in: https://ieeexplore.ieee.org/abst
 
 * First, clone the above libraries, and the Update-Simulation-master file. Then, install the libraries and unzip the Update-Simulation file. After that:
 
-      cd Update-Simulation-master
+      cd Update-Simulation-code-master
     
       g++  -c  Rand.cpp -c Hashtable.cpp -c Polynomial.cpp 
     
