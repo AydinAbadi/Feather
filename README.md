@@ -1,6 +1,6 @@
-# Feather
+# Feather: Lightweight Multi-party Updatable Delegated Private Set Intersection
 
-Feather: Lightweight Multi-party Updatable Delegated Private Set Intersection
+
 With the growth of cloud computing, the need arises for Private Set Intersection (PSI) protocols that can operate on outsourced data and delegate computation to cloud servers. 
 One limitation of existing delegated PSI protocols is that they are all designed for static data and do not allow efficient update on outsourced data. 
 Another limitation is that they cannot efficiently support PSI among multiple clients, which is often needed in practice. 
