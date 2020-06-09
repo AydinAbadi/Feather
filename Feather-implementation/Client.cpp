@@ -6,6 +6,7 @@
 
 #include"Client.h"
 //**********************************************************************
+// Author: Aydin Abadi 
 // - Description:  Constructor- It generates the following private keys: seed,
 // BF_key_, label_key, shuffle_key.
 // It fetches the hashtable parameters, x-points, and field description from the server.
