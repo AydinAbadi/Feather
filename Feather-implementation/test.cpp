@@ -4,11 +4,11 @@
 - a test that runs both update and PSI computation in Feather protocol.
 
 */
-//**********************************************************************
+//*********************************************************************
 
 #include "Client.h"
 
-//**********************************************************************
+//*********************************************************************
 // - Function description: generates a set of random bigintegers,
 // and ensures that the values are smaller than the public moduli and unequal to x-coordinates.
 bigint* gen_randSet (int size, int max_bitsize, bigint* pubModuli, bigint* x_points, int xpoint_size){
