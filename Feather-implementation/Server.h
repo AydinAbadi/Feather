@@ -17,11 +17,11 @@
 	NoElem_in_bucket: each bin's capacity.
 
 */
-//**********************************************************************
+//*********************************************************************
 
 #include"Polynomial.h"
 
-//**********************************************************************
+//*********************************************************************
 // - Description: a request message for PSI computation. It is sent from the result recipient client to the authorizer client.
 
 struct CompPerm_Request{
