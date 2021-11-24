@@ -6,7 +6,7 @@
 
 #include"Server.h"
 
-//**********************************************************************
+//*********************************************************************
 // - Description: Constructor- It generates a set of x-coordinates and public moduli. Also, it sets a hash table parameters.
 Server::Server(int num_xpoints, int dbs_size, int pub_mod_bitsize, int maxSetsize, int NoEl_bucket, int tb_size){
 
