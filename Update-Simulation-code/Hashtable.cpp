@@ -4,11 +4,11 @@
 	https://ieeexplore.ieee.org/abstract/document/7934388/
 
 */
-//**********************************************************************
+//*********************************************************************
 
 #include"Hashtable.h"
 
-//**********************************************************************
+//*********************************************************************
 // - Description: Constructor - given the hash table parameters and an array of elements,
 // it constructs a hash table and inserts the elements into it.
 
