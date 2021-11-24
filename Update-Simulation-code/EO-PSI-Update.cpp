@@ -13,11 +13,11 @@
 - To simulate the update, a set of random bigintegers are generated and
 then the above operations are carried out sequentially on the set.
 */
-//**********************************************************************
+//*********************************************************************
 
 #include "Polynomial.h"
 
-//**********************************************************************
+//*********************************************************************
 // - Function description: given an array of polynomial's coefficients, it finds and returns the polynomials roots.
 
 bigint* findroots(bigint *coeff, int coeff_size, int& number_of_roots, bigint pubmoduli){
