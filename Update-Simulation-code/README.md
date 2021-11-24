@@ -1,6 +1,6 @@
 # Update-Simulation
 
-Update Simulation for the protocol proposed in: https://ieeexplore.ieee.org/abstract/document/7934388/
+Update Simulation of the protocol proposed in: https://ieeexplore.ieee.org/abstract/document/7934388/
 
 # Dependencies
 
