@@ -4,11 +4,11 @@
 	https://ieeexplore.ieee.org/abstract/document/7934388/
 
 */
-//**********************************************************************
+//*********************************************************************
 
 #include "Rand.h"
 
-//**********************************************************************
+//*********************************************************************
 // - Function description: given the source of randomness and the number of bytes required,
 //  it writes random bytes to "buf".
 
