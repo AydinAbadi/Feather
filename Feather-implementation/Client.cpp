@@ -5,7 +5,7 @@
 */
 
 #include"Client.h"
-//**********************************************************************
+//*********************************************************************
 // Author: Aydin Abadi 
 // - Description:  Constructor- It generates the following private keys: seed,
 // BF_key_, label_key, shuffle_key.
