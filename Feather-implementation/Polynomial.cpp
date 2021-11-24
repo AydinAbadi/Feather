@@ -5,7 +5,7 @@
 */
 
 #include"Polynomial.h"
-//**********************************************************************
+//*********************************************************************
 // - Description: Constrcutor- given an array of elements and x-coordinates constructs a polynomial in the point-value form, i.e. calculates y-coordinates.
 Polynomial::Polynomial(bigint* elem, bigint * xpoints, int elem_size, int xpoints_size, bigint pubmoduli, int pubmoduli_size, unordered_map <string, int> map){
 
